@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './App.css';
+import './App.scss';
 import Header from './Component/Header';
 import Search from './Component/Search';
 import TableData from './Component/TableData';
